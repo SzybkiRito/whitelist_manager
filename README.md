@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/szybkirito/whitelist_manager">
     <img src="https://i.imgur.com/vFROF8D.png" alt="Logo" width="160" height="160">
   </a>
 
@@ -17,40 +17,11 @@
   <p align="center">
     API created for whitelist website which handles users applications and authentication of users. This also runs the discord bot which sends messages to the users.
     <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/szybkiritowhitelist_manager/whitelist_manager/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/szybkirito/whitelist_manager/issues">Request Feature</a>
   </p>
 </div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -68,6 +39,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - <a href="https://swagger.io/">Swagger</a>
 - <a href="https://discord.com/developers/docs/intro">Discord.js</a>
 
+## Screenshots
+
+<img src="https://i.imgur.com/Zr8Zjs1.png" alt="website_screenshots">
+<img src="https://i.imgur.com/71yBAtY.png" alt ="discord_messages_screenshot">
 <!-- GETTING STARTED -->
 
 ## Getting Started
@@ -157,6 +132,7 @@ require('crypto').randomBytes(64).toString('hex');
 
 ## Usage
 
+- Important note is that in order it to work the user have to be in the same discord server as your bot
 - If you want to visit all of the avaiable request, visit
   `http://localhost:5000/docs`
 
@@ -196,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/szybkirito/whitelist_manager.svg?style=for-the-badge
 [issues-url]: https://github.com/szybkirito/whitelist_manager/issues
 [license-shield]: https://img.shields.io/github/license/szybkirito/whitelist_manager?style=for-the-badge
-[license-url]: https://github.com/szybkirito/whitelist_manager/blob/master/LICENSE.txt
+[license-url]: https://github.com/szybkirito/whitelist_manager/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/mateusz-jakubczak-1073591b9/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
