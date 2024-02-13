@@ -1,0 +1,10 @@
+CREATE DATABASE IF NOT EXISTS whitelist-api;
+USE whitelist-api;
+
+CREATE TABLE IF NOT EXISTS applications (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  name VARCHAR(255) NOT NULL,
+  discord_id VARCHAR(255) NOT NULL,
+  answers JSON NOT NULL,
+  status TINYINT NOT NULL DEFAULT -1
+);

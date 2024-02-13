@@ -1,0 +1,67 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "numeric",
+      "question": "Ile masz lat",
+      "min": 18,
+      "max": 111
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Jaka jest twoja poprzednia styczność z roleplayem - serwery FiveM, inna platforma/gra?",
+      "min": 1,
+      "max": 1111
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Co twoim zdaniem najbardziej wpływa na poziom rozgrywki na serwerze?",
+      "min": 1,
+      "max": 1111
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Opisz swoją postać oraz gameplan.",
+      "min": 1,
+      "max": 2511
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Jak poinformujesz osobę o teleportującej się postaci lub innym błędzie?",
+      "min": 1,
+      "max": 111
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Jak ubierzesz się na drive by?",
+      "min": 1,
+      "max": 511
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Jakie masz podejście do gracza spoza gangu który filmuje hood blog?",
+      "min": 1,
+      "max": 1111
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Jak według Ciebie powinna wyglądać interakcja aktywnego członka półświatka z agencjami? Jakie błędy popełnia większość graczy FiveM przy tym?",
+      "min": 1,
+      "max": 1111
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Wymień 3 gangi/sety z świata realnego.",
+      "min": 1,
+      "max": 111
+    }
+  ]
+}
